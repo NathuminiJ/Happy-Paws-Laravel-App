@@ -410,8 +410,3 @@ The Happy Paws Pet Supply Store implements a comprehensive security strategy tha
 Regular security assessments, continuous monitoring, and ongoing training ensure that our security posture remains strong and adaptive to emerging threats.
 
 ---
-
-**Document Version**: 1.0  
-**Last Updated**: {{ date('Y-m-d') }}  
-**Next Review**: {{ date('Y-m-d', strtotime('+3 months')) }}  
-**Approved By**: Development Team Lead
